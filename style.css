@@ -22,7 +22,6 @@
 
 html,
 body {
-  height: 100%;
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 13px;
   color: var(--Very-dark-blackish-blue);
