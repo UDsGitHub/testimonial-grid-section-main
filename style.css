@@ -21,6 +21,12 @@
 }
 
 html,
+body, main
+{
+  height: 100%;
+}
+
+html,
 body {
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 13px;
@@ -38,7 +44,6 @@ img {
 }
 
 main {
-  height: 100%;
   padding: 1.375rem;
   display: grid;
   place-items: center;
